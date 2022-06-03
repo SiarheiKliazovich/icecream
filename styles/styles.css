@@ -37,7 +37,7 @@ body {
  justify-content: space-between;
 }
 
-.nav-btn {
+.action-btn {
   background-color: #D23166;
   color:  #FAFAFA;
   border:none;
@@ -58,7 +58,7 @@ body {
   color:rgba(210, 49, 102, 1);
 }
 
-.text-head-section1{
+.text-head-section {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -67,7 +67,7 @@ body {
   margin: 0px 0px 6px;
 }
 
-.h1bunner {
+.banner-title {
   font-family: 'Fredoka One';
   font-style: normal;
   font-weight: 400;
@@ -77,23 +77,15 @@ body {
   margin: 0px 0px 35px;
 }
 
-.ice-cream{
+.banner-title--painted {
   color: rgba(210, 49, 102, 1);
 }
 
-.text-section1{
-font-family: 'Hind Madurai';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 27px;
-margin: 0px 0px 50px;
-}
-
-.section1-btn{
-  background-color: #D23166;
-  color:  #FAFAFA;
-  border:none;
-  padding: 16px 50px;
-  border-radius: 5px;
+.text-section {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  margin: 0px 0px 50px;
 }
