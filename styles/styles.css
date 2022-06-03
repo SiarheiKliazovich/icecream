@@ -1,0 +1,99 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.banner {
+  background-color: rgba(242, 206, 218, 0.3);
+  padding-top:10px;
+
+}
+
+.container {
+  width: 1125px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.nav {
+  margin-top: 10px;
+
+}
+
+.nav-menu  {
+ list-style: none;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+}
+
+.nav-btn {
+  background-color: #D23166;
+  color:  #FAFAFA;
+  border:none;
+  padding: 14px 50px;
+  border-radius: 5px;
+}
+
+.nav-item-link{
+  display:block;
+  padding: 0 20px;
+  font-weight: 700;
+  font-size: 14px;
+  color:rgba(21, 1, 1, 0.6);
+  text-decoration: none;
+}
+
+.nav-item-link--active {
+  color:rgba(210, 49, 102, 1);
+}
+
+.text-head-section1{
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  color: rgba(15, 1, 1, 1);
+  margin: 0px 0px 6px;
+}
+
+.h1bunner {
+  font-family: 'Fredoka One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 57.33px;
+  line-height: 120.5%;
+  color: rgba(15, 1, 1, 0.9);
+  margin: 0px 0px 35px;
+}
+
+.ice-cream{
+  color: rgba(210, 49, 102, 1);
+}
+
+.text-section1{
+font-family: 'Hind Madurai';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+margin: 0px 0px 50px;
+}
+
+.section1-btn{
+  background-color: #D23166;
+  color:  #FAFAFA;
+  border:none;
+  padding: 16px 50px;
+  border-radius: 5px;
+}
